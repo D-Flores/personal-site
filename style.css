@@ -1,0 +1,33 @@
+﻿body {
+    font-family: "JetBrains Mono", monospace;
+}
+
+hr {
+    border: dotted black 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 50px auto;
+}
+
+#title {
+    background-color: #191A19;
+    color: #4E9F3D;
+}
+
+#footer {
+    background-color: #191A19;
+    color: #4E9F3D;
+}
+
+#title img {
+    border-radius: 50%;
+}
+
+#title p {
+    font-style: italic;
+}
+
+.icon-square {
+    height: 3rem;
+    width: 3rem;
+}
